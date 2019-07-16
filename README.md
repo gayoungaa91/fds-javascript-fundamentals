@@ -13,3 +13,4 @@
    - 이름 폴더 내부에서는 여러 폴더로 나눠서 정리하셔도 무방합니다.
 4. 정리하신 내용을 `git add` / `git commit` / `git push (to master)` 해서 원격 저장소(Github)에 올려주세요.
 5. 관리자 저장소에 Pull Request를 보내주세요. (master <- master)
+.
